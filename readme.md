@@ -1,6 +1,5 @@
 # Lab 3: Grade API program
 
-# Lol zoya is a loser
 **Please try to work through Tasks 0 and 1 ahead of your lab time on Monday.
 Your team and TA can help you during the lab if you had any trouble,
 so don't worry if you don't get through Task 1 before lab. There will also
